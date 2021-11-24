@@ -1,0 +1,2634 @@
+{
+    "days": [
+        {
+            "EARLY_AFTERNOON": [
+                {
+                    "Groupes": [
+                        "MI1G1",
+                        "MI1G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Mathématiques",
+                    "Prof": "M2",
+                    "Salle": 0,
+                    "Type": 0
+                },
+                {
+                    "Groupes": [
+                        "MI1G2",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I2",
+                    "Salle": 3,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "PI1G1",
+                        "PI1G2",
+                        "MI1G3",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI1G1",
+                        "MI1G3",
+                        "MI2G1",
+                        "MI2G2",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Physique",
+                    "Prof": "P3",
+                    "Salle": 1,
+                    "Type": 2
+                },
+                {
+                    "Groupes": [
+                        "MI1G1",
+                        "PI1G2",
+                        "PI1G1",
+                        "MI2G2",
+                        "MI2G2",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I2",
+                    "Salle": 3,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI2G2",
+                        "MI1G3",
+                        "PI1G2",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI2G2",
+                        "MI1G2",
+                        "MI1G3",
+                        "MI2G1",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I2",
+                    "Salle": 3,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI2G2",
+                        "MI1G3",
+                        "PI1G2",
+                        "MI2G2"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI1G1",
+                        "MI1G2",
+                        "MI1G3"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                }
+            ],
+            "EARLY_MORNING": [
+                {
+                    "Groupes": [
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Mathématiques",
+                    "Prof": "M3",
+                    "Salle": 0,
+                    "Type": 0
+                },
+                {
+                    "Groupes": [
+                        "MI1G1",
+                        "MI1G3",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G2",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Physique",
+                    "Prof": "P2",
+                    "Salle": 0,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI2G2",
+                        "MI1G3",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Physique",
+                    "Prof": "P3",
+                    "Salle": 2,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "MI2G2",
+                        "PI1G2",
+                        "PI1G1",
+                        "MI2G2",
+                        "MI2G2",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I2",
+                    "Salle": 3,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G2",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI1G2",
+                        "MI2G2",
+                        "MI1G3",
+                        "MI2G1",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I2",
+                    "Salle": 3,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "PI1G1",
+                        "PI1G2",
+                        "MI1G3",
+                        "MI2G1",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI1G1",
+                        "MI1G2",
+                        "MI1G3",
+                        "MI2G1",
+                        "MI2G2"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI2G2",
+                        "MI1G3"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                }
+            ],
+            "LATE_AFTERNOON": [
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Mathématiques",
+                    "Prof": "M1",
+                    "Salle": 0,
+                    "Type": 0
+                },
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI2G2",
+                        "MI2G1",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Mathématiques",
+                    "Prof": "M3",
+                    "Salle": 0,
+                    "Type": 0
+                },
+                {
+                    "Groupes": [
+                        "MI1G2",
+                        "MI1G3",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Physique",
+                    "Prof": "P1",
+                    "Salle": 0,
+                    "Type": 2
+                },
+                {
+                    "Groupes": [
+                        "MI2G2",
+                        "PI1G2",
+                        "MI2G1",
+                        "MI2G2",
+                        "MI2G2",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I3",
+                    "Salle": 3,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "PI2G1",
+                        "MI1G3",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I3",
+                    "Salle": 3,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI1G3",
+                        "PI1G1",
+                        "MI1G3",
+                        "MI2G1",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I1",
+                    "Salle": 3,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI2G2",
+                        "MI1G3",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI1G1",
+                        "MI1G2",
+                        "MI1G3"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                }
+            ],
+            "LATE_MORNING": [
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G2",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Physique",
+                    "Prof": "P1",
+                    "Salle": 2,
+                    "Type": 2
+                },
+                {
+                    "Groupes": [
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Physique",
+                    "Prof": "P2",
+                    "Salle": 1,
+                    "Type": 2
+                },
+                {
+                    "Groupes": [
+                        "MI1G2",
+                        "MI1G3",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I2",
+                    "Salle": 3,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI1G1",
+                        "MI1G3",
+                        "MI2G1",
+                        "MI2G2",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I3",
+                    "Salle": 3,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "PI1G1",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI1G1",
+                        "MI1G2",
+                        "MI1G3",
+                        "MI2G1",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI1G2",
+                        "PI1G1",
+                        "MI1G3",
+                        "MI2G1",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "PI1G2",
+                        "MI1G3",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I3",
+                    "Salle": 3,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI1G1",
+                        "MI1G2",
+                        "MI1G3"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                }
+            ]
+        },
+        {
+            "EARLY_AFTERNOON": [
+                {
+                    "Groupes": [
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "MI2G2",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Mathématiques",
+                    "Prof": "M1",
+                    "Salle": 1,
+                    "Type": 0
+                },
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G2",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Mathématiques",
+                    "Prof": "M2",
+                    "Salle": 1,
+                    "Type": 0
+                },
+                {
+                    "Groupes": [
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "MI2G2",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Mathématiques",
+                    "Prof": "M3",
+                    "Salle": 1,
+                    "Type": 0
+                },
+                {
+                    "Groupes": [
+                        "MI1G2",
+                        "MI2G1",
+                        "PI1G2",
+                        "PI2G1",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Physique",
+                    "Prof": "P1",
+                    "Salle": 2,
+                    "Type": 2
+                },
+                {
+                    "Groupes": [
+                        "MI1G1",
+                        "MI1G3",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Physique",
+                    "Prof": "P2",
+                    "Salle": 2,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "MI1G1",
+                        "MI1G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Physique",
+                    "Prof": "P3",
+                    "Salle": 2,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "PI1G2",
+                        "MI1G2",
+                        "MI1G3",
+                        "MI2G1",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I1",
+                    "Salle": 3,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "PI1G2",
+                        "MI2G2",
+                        "MI1G3",
+                        "MI2G1",
+                        "MI2G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I3",
+                    "Salle": 3,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "PI1G1",
+                        "PI1G2",
+                        "MI1G3"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                }
+            ],
+            "EARLY_MORNING": [
+                {
+                    "Groupes": [
+                        "MI1G1",
+                        "MI1G2",
+                        "MI1G3",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Mathématiques",
+                    "Prof": "M2",
+                    "Salle": 1,
+                    "Type": 0
+                },
+                {
+                    "Groupes": [
+                        "MI1G1",
+                        "MI1G2",
+                        "MI2G1",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Mathématiques",
+                    "Prof": "M3",
+                    "Salle": 1,
+                    "Type": 0
+                },
+                {
+                    "Groupes": [
+                        "MI1G2",
+                        "MI1G3",
+                        "MI2G1",
+                        "MI2G2",
+                        "MI2G2",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Physique",
+                    "Prof": "P3",
+                    "Salle": 0,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "PI1G2",
+                        "MI2G2",
+                        "MI1G3",
+                        "PI1G2",
+                        "PI1G2",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I2",
+                    "Salle": 3,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "MI2G2",
+                        "PI2G1",
+                        "MI1G3",
+                        "PI1G2",
+                        "PI1G2",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I3",
+                    "Salle": 3,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "PI1G2",
+                        "MI1G2",
+                        "MI2G1",
+                        "MI2G2",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I3",
+                    "Salle": 3,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI1G2",
+                        "MI1G3",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I2",
+                    "Salle": 3,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI2G2",
+                        "MI1G3",
+                        "MI2G1",
+                        "MI2G2"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "PI1G1",
+                        "PI1G2",
+                        "MI1G3"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                }
+            ],
+            "LATE_AFTERNOON": [
+                {
+                    "Groupes": [
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G2",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Mathématiques",
+                    "Prof": "M2",
+                    "Salle": 0,
+                    "Type": 0
+                },
+                {
+                    "Groupes": [
+                        "MI1G2",
+                        "MI1G3",
+                        "MI2G1",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Physique",
+                    "Prof": "P2",
+                    "Salle": 0,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "MI1G3",
+                        "PI1G2",
+                        "MI2G1",
+                        "MI2G2",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I1",
+                    "Salle": 3,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI1G1",
+                        "MI1G3",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I3",
+                    "Salle": 3,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "PI1G1",
+                        "PI1G2",
+                        "MI1G3",
+                        "MI2G1",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI2G2",
+                        "MI1G3",
+                        "MI1G3",
+                        "MI2G1",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I3",
+                    "Salle": 3,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI1G1",
+                        "MI1G2",
+                        "MI1G3",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI2G2",
+                        "MI1G3",
+                        "MI2G1",
+                        "MI2G2"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "PI1G1",
+                        "PI1G2",
+                        "MI1G3"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                }
+            ],
+            "LATE_MORNING": [
+                {
+                    "Groupes": [
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G2",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Mathématiques",
+                    "Prof": "M1",
+                    "Salle": 1,
+                    "Type": 0
+                },
+                {
+                    "Groupes": [
+                        "MI1G1",
+                        "MI1G3",
+                        "MI1G3",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Mathématiques",
+                    "Prof": "M2",
+                    "Salle": 0,
+                    "Type": 0
+                },
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G2",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Physique",
+                    "Prof": "P3",
+                    "Salle": 1,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "PI1G2",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I3",
+                    "Salle": 3,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "PI1G1",
+                        "PI1G2",
+                        "MI1G3",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI1G1",
+                        "MI1G2",
+                        "MI1G3",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "PI1G1",
+                        "PI1G2",
+                        "MI1G3",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI2G2",
+                        "MI1G3",
+                        "MI2G1",
+                        "MI2G2"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI1G1",
+                        "MI1G2",
+                        "MI1G3"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                }
+            ]
+        },
+        {
+            "EARLY_AFTERNOON": [
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "MI2G2",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Physique",
+                    "Prof": "P1",
+                    "Salle": 0,
+                    "Type": 2
+                },
+                {
+                    "Groupes": [
+                        "PI1G1",
+                        "PI1G2",
+                        "MI2G1",
+                        "MI2G2",
+                        "PI1G2",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Physique",
+                    "Prof": "P2",
+                    "Salle": 1,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "MI1G1",
+                        "MI1G3",
+                        "MI1G3",
+                        "MI2G2",
+                        "MI2G2",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Physique",
+                    "Prof": "P3",
+                    "Salle": 1,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI2G2",
+                        "MI1G3",
+                        "MI2G1",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Physique",
+                    "Prof": "P2",
+                    "Salle": 1,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "MI1G1",
+                        "MI1G2",
+                        "MI1G3",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "PI2G1",
+                        "MI1G2",
+                        "MI1G3",
+                        "MI2G1",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I3",
+                    "Salle": 3,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI2G2",
+                        "MI1G3",
+                        "PI1G2",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI1G3",
+                        "MI1G2",
+                        "MI1G3",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I3",
+                    "Salle": 3,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "PI1G1",
+                        "PI1G2",
+                        "MI1G3"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                }
+            ],
+            "EARLY_MORNING": [
+                {
+                    "Groupes": [
+                        "PI1G1",
+                        "PI1G2",
+                        "MI1G3",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Physique",
+                    "Prof": "P2",
+                    "Salle": 0,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "MI1G3",
+                        "PI1G2",
+                        "MI1G3",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I2",
+                    "Salle": 3,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "PI1G1",
+                        "PI1G2",
+                        "MI2G1",
+                        "MI2G2",
+                        "PI1G2",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI1G1",
+                        "PI2G1",
+                        "MI1G3",
+                        "PI1G2",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I1",
+                    "Salle": 3,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "MI1G2",
+                        "PI1G1",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I2",
+                    "Salle": 3,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI2G2",
+                        "MI1G3",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI1G1",
+                        "MI1G2",
+                        "MI1G3",
+                        "MI2G1",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI2G2",
+                        "MI1G3",
+                        "MI2G1",
+                        "MI2G2"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI2G2",
+                        "MI1G3"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                }
+            ],
+            "LATE_AFTERNOON": [
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Mathématiques",
+                    "Prof": "M1",
+                    "Salle": 1,
+                    "Type": 0
+                },
+                {
+                    "Groupes": [
+                        "PI1G2",
+                        "MI1G2",
+                        "MI1G3",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I3",
+                    "Salle": 3,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "MI1G2",
+                        "PI1G2",
+                        "MI1G3",
+                        "PI1G2",
+                        "PI1G2",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I3",
+                    "Salle": 3,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI2G2",
+                        "MI1G3",
+                        "MI2G2",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "PI1G1",
+                        "MI2G2",
+                        "MI1G3",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I3",
+                    "Salle": 3,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI1G1",
+                        "MI1G2",
+                        "MI1G3",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "PI1G1",
+                        "PI1G2",
+                        "MI1G3",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI1G1",
+                        "MI1G2",
+                        "MI1G3",
+                        "MI2G1",
+                        "MI2G2"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI1G1",
+                        "MI1G2",
+                        "MI1G3"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I3",
+                    "Salle": 3,
+                    "Type": 4
+                }
+            ],
+            "LATE_MORNING": [
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI2G2",
+                        "MI2G1",
+                        "MI2G2",
+                        "MI2G2",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Mathématiques",
+                    "Prof": "M1",
+                    "Salle": 0,
+                    "Type": 0
+                },
+                {
+                    "Groupes": [
+                        "MI1G1",
+                        "MI1G3",
+                        "MI2G1",
+                        "MI2G2",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Mathématiques",
+                    "Prof": "M2",
+                    "Salle": 1,
+                    "Type": 0
+                },
+                {
+                    "Groupes": [
+                        "PI1G1",
+                        "PI1G2",
+                        "MI2G1",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Physique",
+                    "Prof": "P1",
+                    "Salle": 0,
+                    "Type": 2
+                },
+                {
+                    "Groupes": [
+                        "PI1G1",
+                        "MI1G2",
+                        "MI1G3",
+                        "MI2G1",
+                        "MI2G2",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I1",
+                    "Salle": 3,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "PI1G2",
+                        "MI1G3",
+                        "PI1G2",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I3",
+                    "Salle": 3,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI2G2",
+                        "MI1G3",
+                        "PI1G2",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI1G2",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I3",
+                    "Salle": 3,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "MI1G1",
+                        "MI1G2",
+                        "MI1G3",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI2G2",
+                        "MI1G3"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                }
+            ]
+        },
+        {
+            "EARLY_AFTERNOON": [
+                {
+                    "Groupes": [
+                        "MI1G2",
+                        "MI1G3",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G2",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Mathématiques",
+                    "Prof": "M1",
+                    "Salle": 1,
+                    "Type": 0
+                },
+                {
+                    "Groupes": [
+                        "MI1G1",
+                        "MI1G3",
+                        "MI2G1",
+                        "MI2G2",
+                        "MI2G2",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Physique",
+                    "Prof": "P3",
+                    "Salle": 2,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "MI2G2",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI1G3",
+                        "PI1G2",
+                        "MI1G3",
+                        "PI1G2",
+                        "PI1G2",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I1",
+                    "Salle": 3,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI1G2",
+                        "MI1G3",
+                        "MI2G1",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I3",
+                    "Salle": 3,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "PI1G1",
+                        "PI1G2",
+                        "MI1G3",
+                        "MI2G1",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI1G1",
+                        "MI1G2",
+                        "MI1G3",
+                        "PI1G2",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI2G2",
+                        "MI1G3",
+                        "MI2G1",
+                        "MI2G2"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI2G2",
+                        "MI1G3"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                }
+            ],
+            "EARLY_MORNING": [
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI2G2",
+                        "MI1G3",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Mathématiques",
+                    "Prof": "M3",
+                    "Salle": 0,
+                    "Type": 0
+                },
+                {
+                    "Groupes": [
+                        "MI1G2",
+                        "MI2G2",
+                        "PI1G2",
+                        "PI2G1",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I1",
+                    "Salle": 3,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI1G1",
+                        "MI2G1",
+                        "PI2G1",
+                        "MI2G2",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I2",
+                    "Salle": 3,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI1G2",
+                        "MI1G3",
+                        "MI2G1",
+                        "MI2G2",
+                        "MI2G2",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I2",
+                    "Salle": 3,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "PI1G2",
+                        "MI1G2",
+                        "MI1G3",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I2",
+                    "Salle": 3,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI2G2",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I3",
+                    "Salle": 3,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI1G1",
+                        "MI1G2",
+                        "MI1G3",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI2G2",
+                        "MI1G3",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI1G1",
+                        "MI1G2",
+                        "MI1G3"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I3",
+                    "Salle": 3,
+                    "Type": 3
+                }
+            ],
+            "LATE_AFTERNOON": [
+                {
+                    "Groupes": [
+                        "PI1G1",
+                        "PI1G2",
+                        "MI1G3",
+                        "PI1G2",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Mathématiques",
+                    "Prof": "M2",
+                    "Salle": 0,
+                    "Type": 0
+                },
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI2G2",
+                        "MI1G3",
+                        "MI2G2",
+                        "MI2G2",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Physique",
+                    "Prof": "P2",
+                    "Salle": 1,
+                    "Type": 2
+                },
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI1G3",
+                        "MI2G1",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I1",
+                    "Salle": 3,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "PI1G1",
+                        "PI1G2",
+                        "MI1G3",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Physique",
+                    "Prof": "P2",
+                    "Salle": 1,
+                    "Type": 2
+                },
+                {
+                    "Groupes": [
+                        "MI1G2",
+                        "MI1G3",
+                        "MI1G3",
+                        "MI2G1",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Physique",
+                    "Prof": "P3",
+                    "Salle": 1,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "MI1G1",
+                        "MI1G2",
+                        "MI1G3",
+                        "PI1G2",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I1",
+                    "Salle": 3,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "MI1G2",
+                        "MI1G2",
+                        "MI1G3",
+                        "PI1G2",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I2",
+                    "Salle": 3,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "PI1G2",
+                        "MI1G3",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I3",
+                    "Salle": 3,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI2G2",
+                        "MI1G3"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                }
+            ],
+            "LATE_MORNING": [
+                {
+                    "Groupes": [
+                        "MI1G1",
+                        "MI1G3",
+                        "PI1G1",
+                        "PI1G2",
+                        "MI2G2",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Mathématiques",
+                    "Prof": "M1",
+                    "Salle": 1,
+                    "Type": 0
+                },
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Mathématiques",
+                    "Prof": "M2",
+                    "Salle": 0,
+                    "Type": 0
+                },
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI2G2",
+                        "MI2G1",
+                        "MI2G2",
+                        "MI2G2",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Physique",
+                    "Prof": "P2",
+                    "Salle": 2,
+                    "Type": 2
+                },
+                {
+                    "Groupes": [
+                        "PI1G1",
+                        "PI1G2",
+                        "MI1G3",
+                        "MI2G2",
+                        "PI2G1",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Physique",
+                    "Prof": "P3",
+                    "Salle": 0,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "PI2G1",
+                        "MI1G3",
+                        "MI1G3",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I2",
+                    "Salle": 3,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "MI2G2",
+                        "PI1G1",
+                        "MI1G3",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I3",
+                    "Salle": 3,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "PI2G1",
+                        "MI2G2",
+                        "MI1G3",
+                        "PI1G2",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I3",
+                    "Salle": 3,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "MI1G3",
+                        "PI1G2",
+                        "MI1G3",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI1G1",
+                        "MI1G2",
+                        "MI1G3"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                }
+            ]
+        },
+        {
+            "EARLY_AFTERNOON": [
+                {
+                    "Groupes": [
+                        "MI1G1",
+                        "MI1G2",
+                        "MI1G3",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Mathématiques",
+                    "Prof": "M3",
+                    "Salle": 1,
+                    "Type": 0
+                },
+                {
+                    "Groupes": [
+                        "MI1G1",
+                        "MI1G3",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Physique",
+                    "Prof": "P1",
+                    "Salle": 1,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "PI1G1",
+                        "PI1G2",
+                        "MI2G2",
+                        "MI2G2",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Physique",
+                    "Prof": "P2",
+                    "Salle": 1,
+                    "Type": 2
+                },
+                {
+                    "Groupes": [
+                        "PI1G2",
+                        "MI2G1",
+                        "PI1G2",
+                        "MI2G2",
+                        "MI2G2",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I1",
+                    "Salle": 3,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "MI1G1",
+                        "MI1G2",
+                        "MI1G3",
+                        "PI1G2",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "PI1G1",
+                        "PI1G2",
+                        "MI1G3",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI2G2",
+                        "MI1G3",
+                        "MI2G1",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI2G2",
+                        "MI2G2",
+                        "MI1G3",
+                        "MI2G1",
+                        "MI2G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I3",
+                    "Salle": 3,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI2G2",
+                        "MI1G3"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                }
+            ],
+            "EARLY_MORNING": [
+                {
+                    "Groupes": [
+                        "PI1G1",
+                        "PI1G2",
+                        "MI2G1",
+                        "MI2G2",
+                        "MI2G2",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Mathématiques",
+                    "Prof": "M1",
+                    "Salle": 0,
+                    "Type": 0
+                },
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G2",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Physique",
+                    "Prof": "P1",
+                    "Salle": 2,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI2G2",
+                        "MI1G3",
+                        "MI2G1",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Physique",
+                    "Prof": "P2",
+                    "Salle": 1,
+                    "Type": 2
+                },
+                {
+                    "Groupes": [
+                        "MI1G1",
+                        "MI1G2",
+                        "MI1G3",
+                        "PI1G2",
+                        "MI2G2",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Physique",
+                    "Prof": "P1",
+                    "Salle": 2,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "MI1G3",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I1",
+                    "Salle": 3,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "PI1G2",
+                        "PI1G2",
+                        "MI1G3",
+                        "MI2G1",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I3",
+                    "Salle": 3,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI2G2",
+                        "MI1G3",
+                        "PI1G2",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI1G1",
+                        "MI1G2",
+                        "MI1G3",
+                        "MI2G1",
+                        "MI2G2"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI2G2",
+                        "MI1G3"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                }
+            ],
+            "LATE_AFTERNOON": [
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI1G1",
+                        "MI1G3",
+                        "MI2G1",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Physique",
+                    "Prof": "P2",
+                    "Salle": 0,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "MI1G1",
+                        "MI1G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Physique",
+                    "Prof": "P3",
+                    "Salle": 0,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "MI1G1",
+                        "MI1G3",
+                        "PI2G1",
+                        "PI1G2",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I2",
+                    "Salle": 3,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "PI1G2",
+                        "MI1G3",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I1",
+                    "Salle": 3,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI1G2",
+                        "MI1G3",
+                        "MI2G1",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I3",
+                    "Salle": 3,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI2G2",
+                        "MI1G3",
+                        "PI1G2",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI1G1",
+                        "MI1G2",
+                        "MI1G3",
+                        "PI1G2",
+                        "MI2G2"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "MI1G1",
+                        "MI1G2",
+                        "MI1G3"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                }
+            ],
+            "LATE_MORNING": [
+                {
+                    "Groupes": [
+                        "MI1G2",
+                        "MI1G3",
+                        "MI2G1",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Mathématiques",
+                    "Prof": "M1",
+                    "Salle": 1,
+                    "Type": 0
+                },
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI2G2",
+                        "MI1G3",
+                        "MI2G1",
+                        "MI2G2",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Mathématiques",
+                    "Prof": "M3",
+                    "Salle": 1,
+                    "Type": 0
+                },
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI2G2",
+                        "PI2G1",
+                        "MI2G2",
+                        "MI2G2",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Physique",
+                    "Prof": "P3",
+                    "Salle": 1,
+                    "Type": 2
+                },
+                {
+                    "Groupes": [
+                        "MI2G2",
+                        "PI1G2",
+                        "MI1G3",
+                        "PI1G2",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I1",
+                    "Salle": 3,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "PI1G2",
+                        "PI1G2",
+                        "MI1G3",
+                        "MI2G1",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I3",
+                    "Salle": 3,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "MI1G3",
+                        "MI2G2",
+                        "MI1G3",
+                        "PI1G1",
+                        "PI1G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I2",
+                    "Salle": 3,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "MI1G1",
+                        "MI1G2",
+                        "MI1G3",
+                        "MI2G1",
+                        "MI2G2",
+                        "PI1G1",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                },
+                {
+                    "Groupes": [
+                        "PI2G1",
+                        "MI1G2",
+                        "MI1G3",
+                        "PI1G2",
+                        "PI1G2"
+                    ],
+                    "Matiere": "Informatique",
+                    "Prof": "I3",
+                    "Salle": 3,
+                    "Type": 3
+                },
+                {
+                    "Groupes": [
+                        "MI2G1",
+                        "MI2G2",
+                        "MI1G3"
+                    ],
+                    "Matiere": "Anglais",
+                    "Prof": "A1",
+                    "Salle": 4,
+                    "Type": 4
+                }
+            ]
+        }
+    ]
+}

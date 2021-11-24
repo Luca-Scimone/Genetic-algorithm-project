@@ -1,0 +1,1921 @@
+{
+  "prof":[
+    {
+      "ID": "M1",
+      "Matiere": "Mathématiques",
+      "Restantes": 12,
+      "Heuresupp": 3,
+      "Contraintes": [
+        [
+          {
+            "Jour": "Lundi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 3
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          },
+          {
+            "Jour": "Mardi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          },
+          {
+            "Jour": "Mercredi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 1000000
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 1000000
+              }
+            ]
+          },
+          {
+            "Jour": "Jeudi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          },
+          {
+            "Jour": "Vendredi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "ID": "M2",
+      "Matiere": "Mathématiques",
+      "Restantes": 10,
+      "Heuresupp": 3,
+      "Contraintes": [
+        [
+          {
+            "Jour": "Lundi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          },
+          {
+            "Jour": "Mardi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          },
+          {
+            "Jour": "Mercredi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          },
+          {
+            "Jour": "Jeudi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          },
+          {
+            "Jour": "Vendredi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "ID": "M3",
+      "Matiere": "Mathématiques",
+      "Restantes": 8,
+      "Heuresupp": 3,
+      "Contraintes": [
+        [
+          {
+            "Jour": "Lundi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          },
+          {
+            "Jour": "Mardi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          },
+          {
+            "Jour": "Mercredi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          },
+          {
+            "Jour": "Jeudi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          },
+          {
+            "Jour": "Vendredi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "ID": "P1",
+      "Matiere": "Physique",
+      "Restantes": 10,
+      "Heuresupp": 3,
+      "Contraintes": [
+        [
+          {
+            "Jour": "Lundi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          },
+          {
+            "Jour": "Mardi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 50
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 50
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          },
+          {
+            "Jour": "Mercredi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          },
+          {
+            "Jour": "Jeudi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          },
+          {
+            "Jour": "Vendredi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 3
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 3
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "ID": "P2",
+      "Matiere": "Physique",
+      "Restantes": 10,
+      "Heuresupp": 10,
+      "Contraintes": [
+        [
+          {
+            "Jour": "Lundi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          },
+          {
+            "Jour": "Mardi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          },
+          {
+            "Jour": "Mercredi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          },
+          {
+            "Jour": "Jeudi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          },
+          {
+            "Jour": "Vendredi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "ID": "P3",
+      "Matiere": "Physique",
+      "Restantes": 12,
+      "Heuresupp": 0,
+      "Contraintes": [
+        [
+          {
+            "Jour": "Lundi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          },
+          {
+            "Jour": "Mardi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          },
+          {
+            "Jour": "Mercredi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          },
+          {
+            "Jour": "Jeudi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          },
+          {
+            "Jour": "Vendredi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "ID": "I1",
+      "Matiere": "Informatique",
+      "Restantes": 12,
+      "Heuresupp": 3,
+      "Contraintes": [
+        [
+          {
+            "Jour": "Lundi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          },
+          {
+            "Jour": "Mardi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          },
+          {
+            "Jour": "Mercredi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          },
+          {
+            "Jour": "Jeudi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          },
+          {
+            "Jour": "Vendredi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "ID": "I2",
+      "Matiere": "Informatique",
+      "Restantes": 12,
+      "Heuresupp": 3,
+      "Contraintes": [
+        [
+          {
+            "Jour": "Lundi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          },
+          {
+            "Jour": "Mardi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          },
+          {
+            "Jour": "Mercredi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          },
+          {
+            "Jour": "Jeudi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          },
+          {
+            "Jour": "Vendredi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "ID": "I3",
+      "Matiere": "Informatique",
+      "Restantes": 12,
+      "Heuresupp": 3,
+      "Contraintes": [
+        [
+          {
+            "Jour": "Lundi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          },
+          {
+            "Jour": "Mardi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          },
+          {
+            "Jour": "Mercredi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          },
+          {
+            "Jour": "Jeudi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          },
+          {
+            "Jour": "Vendredi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "ID": "A1",
+      "Matiere": "Anglais",
+      "Restantes": 12,
+      "Heuresupp": 3,
+      "Contraintes": [
+        [
+          {
+            "Jour": "Lundi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          },
+          {
+            "Jour": "Mardi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          },
+          {
+            "Jour": "Mercredi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          },
+          {
+            "Jour": "Jeudi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          },
+          {
+            "Jour": "Vendredi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "ID": "A2",
+      "Matiere": "Anglais",
+      "Restantes": 4,
+      "Heuresupp": 3,
+      "Contraintes": [
+        [
+          {
+            "Jour": "Lundi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          },
+          {
+            "Jour": "Mardi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          },
+          {
+            "Jour": "Mercredi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          },
+          {
+            "Jour": "Jeudi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          },
+          {
+            "Jour": "Vendredi",
+            "Heures": [
+              {
+                "Heure": "EARLY_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_MORNING",
+                "Dispo": 0
+              },
+              {
+                "Heure": "EARLY_AFTERNOON",
+                "Dispo": 0
+              },
+              {
+                "Heure": "LATE_AFTERNOON",
+                "Dispo": 0
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ],
+  "salle":[
+    {
+      "ID": "TD1",
+      "Type": "TD",
+      "Capacité": 40,
+      "Contraintes":[
+        {
+          "Jour": "Lundi",
+          "Heures":[
+            {
+              "Heure": "EARLY_MORNING",
+              "Dispo": 0
+            },
+            {
+              "Heure": "LATE_MORNING",
+              "Dispo": 0
+            },
+            {
+              "Heure": "EARLY_AFTERNOON",
+              "Dispo": 0
+            },
+            {
+              "Heure": "LATE_AFTERNOON",
+              "Dispo": 0
+            }
+          ]
+        },
+        {
+          "Jour": "Mardi",
+          "Heures":[
+            {
+              "Heure": "EARLY_MORNING",
+              "Dispo": 0
+            },
+            {
+              "Heure": "LATE_MORNING",
+              "Dispo": 0
+            },
+            {
+              "Heure": "EARLY_AFTERNOON",
+              "Dispo": 0
+            },
+            {
+              "Heure": "LATE_AFTERNOON",
+              "Dispo": 0
+            }
+          ]
+        },
+        {
+          "Jour": "Mercredi",
+          "Heures":[
+            {
+              "Heure": "EARLY_MORNING",
+              "Dispo": 0
+            },
+            {
+              "Heure": "LATE_MORNING",
+              "Dispo": 0
+            },
+            {
+              "Heure": "EARLY_AFTERNOON",
+              "Dispo": 0
+            },
+            {
+              "Heure": "LATE_AFTERNOON",
+              "Dispo": 0
+            }
+          ]
+        },
+        {
+          "Jour": "Jeudi",
+          "Heures":[
+            {
+              "Heure": "EARLY_MORNING",
+              "Dispo": 0
+            },
+            {
+              "Heure": "LATE_MORNING",
+              "Dispo": 0
+            },
+            {
+              "Heure": "EARLY_AFTERNOON",
+              "Dispo": 0
+            },
+            {
+              "Heure": "LATE_AFTERNOON",
+              "Dispo": 0
+            }
+          ]
+        },
+        {
+          "Jour": "Vendredi",
+          "Heures":[
+            {
+              "Heure": "EARLY_MORNING",
+              "Dispo": 0
+            },
+            {
+              "Heure": "LATE_MORNING",
+              "Dispo": 0
+            },
+            {
+              "Heure": "EARLY_AFTERNOON",
+              "Dispo": 0
+            },
+            {
+              "Heure": "LATE_AFTERNOON",
+              "Dispo": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": "TD2",
+      "Type": "TD",
+      "Capacité": 40,
+      "Contraintes":[
+        {
+          "Jour": "Lundi",
+          "Heures":[
+            {
+              "Heure": "EARLY_MORNING",
+              "Dispo": 0
+            },
+            {
+              "Heure": "LATE_MORNING",
+              "Dispo": 0
+            },
+            {
+              "Heure": "EARLY_AFTERNOON",
+              "Dispo": 0
+            },
+            {
+              "Heure": "LATE_AFTERNOON",
+              "Dispo": 0
+            }
+          ]
+        },
+        {
+          "Jour": "Mardi",
+          "Heures":[
+            {
+              "Heure": "EARLY_MORNING",
+              "Dispo": 0
+            },
+            {
+              "Heure": "LATE_MORNING",
+              "Dispo": 0
+            },
+            {
+              "Heure": "EARLY_AFTERNOON",
+              "Dispo": 0
+            },
+            {
+              "Heure": "LATE_AFTERNOON",
+              "Dispo": 0
+            }
+          ]
+        },
+        {
+          "Jour": "Mercredi",
+          "Heures":[
+            {
+              "Heure": "EARLY_MORNING",
+              "Dispo": 0
+            },
+            {
+              "Heure": "LATE_MORNING",
+              "Dispo": 0
+            },
+            {
+              "Heure": "EARLY_AFTERNOON",
+              "Dispo": 0
+            },
+            {
+              "Heure": "LATE_AFTERNOON",
+              "Dispo": 0
+            }
+          ]
+        },
+        {
+          "Jour": "Jeudi",
+          "Heures":[
+            {
+              "Heure": "EARLY_MORNING",
+              "Dispo": 0
+            },
+            {
+              "Heure": "LATE_MORNING",
+              "Dispo": 0
+            },
+            {
+              "Heure": "EARLY_AFTERNOON",
+              "Dispo": 0
+            },
+            {
+              "Heure": "LATE_AFTERNOON",
+              "Dispo": 0
+            }
+          ]
+        },
+        {
+          "Jour": "Vendredi",
+          "Heures":[
+            {
+              "Heure": "EARLY_MORNING",
+              "Dispo": 0
+            },
+            {
+              "Heure": "LATE_MORNING",
+              "Dispo": 0
+            },
+            {
+              "Heure": "EARLY_AFTERNOON",
+              "Dispo": 0
+            },
+            {
+              "Heure": "LATE_AFTERNOON",
+              "Dispo": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": "TD3",
+      "Type": "TD",
+      "Capacité": 40,
+      "Contraintes":[
+        {
+          "Jour": "Lundi",
+          "Heures":[
+            {
+              "Heure": "EARLY_MORNING",
+              "Dispo": 0
+            },
+            {
+              "Heure": "LATE_MORNING",
+              "Dispo": 0
+            },
+            {
+              "Heure": "EARLY_AFTERNOON",
+              "Dispo": 0
+            },
+            {
+              "Heure": "LATE_AFTERNOON",
+              "Dispo": 0
+            }
+          ]
+        },
+        {
+          "Jour": "Mardi",
+          "Heures":[
+            {
+              "Heure": "EARLY_MORNING",
+              "Dispo": 0
+            },
+            {
+              "Heure": "LATE_MORNING",
+              "Dispo": 0
+            },
+            {
+              "Heure": "EARLY_AFTERNOON",
+              "Dispo": 0
+            },
+            {
+              "Heure": "LATE_AFTERNOON",
+              "Dispo": 0
+            }
+          ]
+        },
+        {
+          "Jour": "Mercredi",
+          "Heures":[
+            {
+              "Heure": "EARLY_MORNING",
+              "Dispo": 0
+            },
+            {
+              "Heure": "LATE_MORNING",
+              "Dispo": 0
+            },
+            {
+              "Heure": "EARLY_AFTERNOON",
+              "Dispo": 0
+            },
+            {
+              "Heure": "LATE_AFTERNOON",
+              "Dispo": 0
+            }
+          ]
+        },
+        {
+          "Jour": "Jeudi",
+          "Heures":[
+            {
+              "Heure": "EARLY_MORNING",
+              "Dispo": 0
+            },
+            {
+              "Heure": "LATE_MORNING",
+              "Dispo": 0
+            },
+            {
+              "Heure": "EARLY_AFTERNOON",
+              "Dispo": 0
+            },
+            {
+              "Heure": "LATE_AFTERNOON",
+              "Dispo": 0
+            }
+          ]
+        },
+        {
+          "Jour": "Vendredi",
+          "Heures":[
+            {
+              "Heure": "EARLY_MORNING",
+              "Dispo": 0
+            },
+            {
+              "Heure": "LATE_MORNING",
+              "Dispo": 0
+            },
+            {
+              "Heure": "EARLY_AFTERNOON",
+              "Dispo": 0
+            },
+            {
+              "Heure": "LATE_AFTERNOON",
+              "Dispo": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": "Info",
+      "Type": "Info",
+      "Capacité": 20,
+      "Contraintes":[
+        {
+          "Jour": "Lundi",
+          "Heures":[
+            {
+              "Heure": "EARLY_MORNING",
+              "Dispo": 0
+            },
+            {
+              "Heure": "LATE_MORNING",
+              "Dispo": 0
+            },
+            {
+              "Heure": "EARLY_AFTERNOON",
+              "Dispo": 0
+            },
+            {
+              "Heure": "LATE_AFTERNOON",
+              "Dispo": 0
+            }
+          ]
+        },
+        {
+          "Jour": "Mardi",
+          "Heures":[
+            {
+              "Heure": "EARLY_MORNING",
+              "Dispo": 0
+            },
+            {
+              "Heure": "LATE_MORNING",
+              "Dispo": 0
+            },
+            {
+              "Heure": "EARLY_AFTERNOON",
+              "Dispo": 0
+            },
+            {
+              "Heure": "LATE_AFTERNOON",
+              "Dispo": 0
+            }
+          ]
+        },
+        {
+          "Jour": "Mercredi",
+          "Heures":[
+            {
+              "Heure": "EARLY_MORNING",
+              "Dispo": 0
+            },
+            {
+              "Heure": "LATE_MORNING",
+              "Dispo": 0
+            },
+            {
+              "Heure": "EARLY_AFTERNOON",
+              "Dispo": 0
+            },
+            {
+              "Heure": "LATE_AFTERNOON",
+              "Dispo": 0
+            }
+          ]
+        },
+        {
+          "Jour": "Jeudi",
+          "Heures":[
+            {
+              "Heure": "EARLY_MORNING",
+              "Dispo": 0
+            },
+            {
+              "Heure": "LATE_MORNING",
+              "Dispo": 0
+            },
+            {
+              "Heure": "EARLY_AFTERNOON",
+              "Dispo": 0
+            },
+            {
+              "Heure": "LATE_AFTERNOON",
+              "Dispo": 0
+            }
+          ]
+        },
+        {
+          "Jour": "Vendredi",
+          "Heures":[
+            {
+              "Heure": "EARLY_MORNING",
+              "Dispo": 0
+            },
+            {
+              "Heure": "LATE_MORNING",
+              "Dispo": 0
+            },
+            {
+              "Heure": "EARLY_AFTERNOON",
+              "Dispo": 0
+            },
+            {
+              "Heure": "LATE_AFTERNOON",
+              "Dispo": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": "Langues",
+      "Type": "Langues",
+      "Capacité": 100000,
+      "Contraintes":[
+        {
+          "Jour": "Lundi",
+          "Heures":[
+            {
+              "Heure": "EARLY_MORNING",
+              "Dispo": 1000000
+            },
+            {
+              "Heure": "LATE_MORNING",
+              "Dispo": 1000000
+            },
+            {
+              "Heure": "EARLY_AFTERNOON",
+              "Dispo": 1000000
+            },
+            {
+              "Heure": "LATE_AFTERNOON",
+              "Dispo": 1000000
+            }
+          ]
+        },
+        {
+          "Jour": "Mardi",
+          "Heures":[
+            {
+              "Heure": "EARLY_MORNING",
+              "Dispo": 1000000
+            },
+            {
+              "Heure": "LATE_MORNING",
+              "Dispo": 1000000
+            },
+            {
+              "Heure": "EARLY_AFTERNOON",
+              "Dispo": 1000000
+            },
+            {
+              "Heure": "LATE_AFTERNOON",
+              "Dispo": 1000000
+            }
+          ]
+        },
+        {
+          "Jour": "Mercredi",
+          "Heures":[
+            {
+              "Heure": "EARLY_MORNING",
+              "Dispo": 0
+            },
+            {
+              "Heure": "LATE_MORNING",
+              "Dispo": 0
+            },
+            {
+              "Heure": "EARLY_AFTERNOON",
+              "Dispo": 1000000
+            },
+            {
+              "Heure": "LATE_AFTERNOON",
+              "Dispo": 1000000
+            }
+          ]
+        },
+        {
+          "Jour": "Jeudi",
+          "Heures":[
+            {
+              "Heure": "EARLY_MORNING",
+              "Dispo": 0
+            },
+            {
+              "Heure": "LATE_MORNING",
+              "Dispo": 0
+            },
+            {
+              "Heure": "EARLY_AFTERNOON",
+              "Dispo": 1000000
+            },
+            {
+              "Heure": "LATE_AFTERNOON",
+              "Dispo": 1000000
+            }
+          ]
+        },
+        {
+          "Jour": "Vendredi",
+          "Heures":[
+            {
+              "Heure": "EARLY_MORNING",
+              "Dispo": 0
+            },
+            {
+              "Heure": "LATE_MORNING",
+              "Dispo": 0
+            },
+            {
+              "Heure": "EARLY_AFTERNOON",
+              "Dispo": 1000000
+            },
+            {
+              "Heure": "LATE_AFTERNOON",
+              "Dispo": 1000000
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groupe":[
+    {
+      "nom":"MI1G1",
+      "classe":"MI1",
+      "effectif":16,
+      "Mrestantes":10,
+      "PTDrestantes":2,
+      "PTPrestantes":2,
+      "ITDestantes":4,
+      "ITPrestantes":4,
+      "Arestantes":4
+    },
+    {
+      "nom":"MI1G2",
+      "classe":"MI1",
+      "effectif":17,
+      "Mrestantes":10,
+      "PTDrestantes":2,
+      "PTPrestantes":2,
+      "ITDestantes":4,
+      "ITPrestantes":4,
+      "Arestantes":4
+    },
+    {
+      "nom":"MI1G3",
+      "classe":"MI1",
+      "effectif":17,
+      "Mrestantes":10,
+      "PTDrestantes":2,
+      "PTPrestantes":2,
+      "ITDestantes":4,
+      "ITPrestantes":4,
+      "Arestantes":4
+    },
+    {
+      "nom":"MI2G1",
+      "classe":"MI2",
+      "effectif":15,
+      "Mrestantes":10,
+      "PTDrestantes":2,
+      "PTPrestantes":2,
+      "ITDestantes":4,
+      "ITPrestantes":4,
+      "Arestantes":4
+    },
+    {
+      "nom":"MI2G2",
+      "classe":"MI2",
+      "effectif":15,
+      "Mrestantes":10,
+      "PTDrestantes":2,
+      "PTPrestantes":2,
+      "ITDestantes":4,
+      "ITPrestantes":4,
+      "Arestantes":4
+    },
+    {
+      "nom":"PI1G1",
+      "classe":"PI1",
+      "effectif":12,
+      "Mrestantes":4,
+      "PTDrestantes":4,
+      "PTPrestantes":6,
+      "ITDestantes":6,
+      "ITPrestantes":2,
+      "Arestantes":4
+    },
+    {
+      "nom":"PI1G2",
+      "classe":"PI1",
+      "effectif":13,
+      "Mrestantes":4,
+      "PTDrestantes":4,
+      "PTPrestantes":6,
+      "ITDestantes":6,
+      "ITPrestantes":2,
+      "Arestantes":4
+    },
+    {
+      "nom":"PI2G1",
+      "classe":"PI2",
+      "effectif":12,
+      "Mrestantes":4,
+      "PTDrestantes":4,
+      "PTPrestantes":6,
+      "ITDestantes":6,
+      "ITPrestantes":2,
+      "Arestantes":4
+    }
+  ]
+}
